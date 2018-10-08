@@ -29,7 +29,7 @@ do
   # ignore . files
   [[ ${f} = ".git" ]] && continue
   [[ ${f} = ".gitignore" ]] && continue
-  ln -snfv "${DOT_DIR}/${f}" "${HOME}/${f}"
+  ln -snfv ${DOT_DIR}/${f} ${HOME}/${f}
   echo "Done synbolic link: ${HOME}/${f} >> ${DOT_DIR/${f}"
 done
 
