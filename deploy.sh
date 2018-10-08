@@ -30,7 +30,7 @@ do
   [[ ${f} = ".git" ]] && continue
   [[ ${f} = ".gitignore" ]] && continue
   ln -snfv ${DOT_DIR}/${f} ${HOME}/${f}
-  echo "Done synbolic link: ${HOME}/${f} >> ${DOT_DIR/${f}"
+  
 done
 
 echo $(tput setaf 2)Deploy dotfiles complete!. ✔︎$(tput sgr0)
