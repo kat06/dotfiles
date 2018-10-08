@@ -1,4 +1,4 @@
-"vim settings file
+"vim config
 
 set fenc=utf-8
 set nobackup
