@@ -3,4 +3,5 @@
 
 |File name|Description|
 |:--------|:----------|
-|test|test|
+|.vimrc|vim config|
+|.tmux.conf|tmux config|
