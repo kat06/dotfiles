@@ -1,4 +1,4 @@
-# kat06's dotfiles
+# My dotfiles
 ### This is my dotfiles repository  
 
 |File name|Description|
