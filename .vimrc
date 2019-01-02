@@ -16,7 +16,10 @@ set visualbell
 set showmatch
 set laststatus=2
 
-set tabstop=2
+set tabstop=4
+set autoindent
+set expandtab
+set shiftwidth=4
 
 set ignorecase
 set smartcase
