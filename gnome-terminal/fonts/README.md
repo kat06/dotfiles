@@ -1,2 +1,2 @@
-font url
-* https://github.com/miiton/Cica/releases
+# font url
+* [Cica](https://github.com/miiton/Cica/releases)
